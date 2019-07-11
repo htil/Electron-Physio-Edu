@@ -1,3 +1,6 @@
 [submodule "frontEnd"]
 	path = frontEnd
 	url = https://github.com/bclinkscale/frontEnd
+[submodule "backEnd"]
+	path = backEnd
+	url = https://github.com/bclinkscale/backEnd
